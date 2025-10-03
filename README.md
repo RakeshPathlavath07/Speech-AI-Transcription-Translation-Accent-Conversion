@@ -37,8 +37,8 @@ This project is a **Streamlit application** that demonstrates **end-to-end AI sp
 
 ## How to Run
 
-1. Clone the repository 
-   ```bash
+1. Clone the repository :
+ 
    git clone <your-repo-url>
    cd <your-repo-folder>
    
