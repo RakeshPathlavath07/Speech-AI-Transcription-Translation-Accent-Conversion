@@ -37,18 +37,19 @@ This project is a **Streamlit application** that demonstrates **end-to-end AI sp
 
 ## How to Run
 
-1. Clone the repo:
-   ``bash
+1. Clone the repository 
+   ```bash
    git clone <your-repo-url>
+   cd <your-repo-folder>
    
 
 2.Install dependencies: 
-    ``bash
+    ```bash
     pip install -r requirements.txt
   
 
 3.Set up environment variables (.env) and Google Cloud TTS credentials.
 
 4.Run the app: 
-    ``bash
+    ```bash
     streamlit run app.py
