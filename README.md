@@ -2,7 +2,7 @@
 
 # 🗣️ AI-Powered Speech Transcription, Translation & Accent Conversion
 
-**Tagline / About (GitHub About section):**  
+ 
 AI-powered web app for **speech transcription, multi-language translation, accent conversion, and reading text in different languages**. Upload or record audio and listen in various accents or translated voices.
 
 ---
@@ -44,4 +44,5 @@ This project is a **Streamlit application** that demonstrates **end-to-end AI sp
   pip install -r requirements.txt
 
 3.Set up environment variables (.env) and Google Cloud TTS credentials.
+
 4.Run the app: streamlit run app.py
