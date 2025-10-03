@@ -1,0 +1,9 @@
+streamlit
+assemblyai
+google-cloud-texttospeech
+python-dotenv
+st_audiorec
+noisereduce
+librosa
+soundfile
+requests
