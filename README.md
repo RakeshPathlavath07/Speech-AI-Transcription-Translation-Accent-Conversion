@@ -43,13 +43,12 @@ This project is a **Streamlit application** that demonstrates **end-to-end AI sp
    cd <your-repo-folder>
    
 
-2.Install dependencies: 
-    ```bash
-    pip install -r requirements.txt
+2.Install dependencies: pip install -r requirements.txt
+    
   
 
 3.Set up environment variables (.env) and Google Cloud TTS credentials.
 
-4.Run the app: 
-    ```bash
-    streamlit run app.py
+4.Run the app:  streamlit run app.py
+   
+   
