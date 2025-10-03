@@ -1,0 +1,21 @@
+# Python cache and compiled files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Google Cloud credentials
+google_tts_key.json
+
+# Temporary and generated audio files
+temp_audio.wav
+converted_accent.mp3
+translated_*.mp3
+
+# OS-specific files
+.DS_Store
+Thumbs.db
