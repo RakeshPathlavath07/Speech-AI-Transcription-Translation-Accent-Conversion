@@ -38,9 +38,11 @@ This project is a **Streamlit application** that demonstrates **end-to-end AI sp
 ## How to Run
 
 1. Clone the repository :
- 
+   ```bash
    git clone <your-repo-url>
    cd <your-repo-folder>
+ 
+   
    
 2.Create a virtual environment (optional but recommended)
 
