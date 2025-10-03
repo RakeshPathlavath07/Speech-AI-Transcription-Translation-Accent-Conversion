@@ -42,13 +42,14 @@ This project is a **Streamlit application** that demonstrates **end-to-end AI sp
    git clone <your-repo-url>
    cd <your-repo-folder>
    
+2.Create a virtual environment (optional but recommended)
 
-2.Install dependencies: pip install -r requirements.txt
+3.Install dependencies: pip install -r requirements.txt
     
   
 
-3.Set up environment variables (.env) and Google Cloud TTS credentials.
+4.Set up environment variables (.env) and Google Cloud TTS credentials.
 
-4.Run the app:  streamlit run app.py
+5.Run the app:  streamlit run app.py
    
    
